@@ -1,0 +1,7 @@
+1- express  
+2- mongoose  orm for mongoDB
+3- morgan  log requests 
+4- bcrypt  enc and dec password
+5- jsonwebtoken  for authentication 
+6- express-async-errors  for handling error with using try and catch in every block of code  
+7- dotenv  if you want to use environment vars
